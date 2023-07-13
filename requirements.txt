@@ -83,7 +83,7 @@ fastcore==1.5.29
 fastjsonschema==2.16.3
 filelock==3.12.0
 fire==0.5.0
-Flask==2.3.2
+Flask==2.2.5
 flatbuffers==23.5.26
 fonttools==4.34.2
 fqdn==1.5.1
